@@ -1,0 +1,21 @@
+aid: cvs-health
+url: https://raw.githubusercontent.com/api-evangelist/cvs-health/refs/heads/main/apis.yml
+modified: '2026-03-21'
+apis:
+  - aid: cvs-health:cvs-health-api
+    name: CVS Health API
+    tags:
+      - Healthcare
+      - Pharmacy
+      - Prescriptions
+      - Health
+    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    baseURL: https://api.cvshealth.com
+    humanURL: https://www.cvshealth.com/social-responsibility/digital-health
+    properties:
+      - url: https://www.cvshealth.com/social-responsibility/digital-health
+        type: Documentation
+      - url: openapi/cvs-health-cvs-health-api-openapi.yml
+        type: OpenAPI
+    description: >-
+      CVS Health provides APIs for pharmacy services, prescription management, and health data interoperability. These APIs enable healthcare providers and partners to integrate with CVS pharmacy and health services.
