@@ -1,6 +1,6 @@
 aid: cvs-health
 name: CVS Health
-x-type: company
+kind: company
 description: >-
   CVS Health is a Fortune 50 healthcare services and retail pharmacy
   company. Its core operating units include CVS Pharmacy (retail
