@@ -76,6 +76,8 @@ apis:
       - type: MinuteClinic
         url: https://www.cvs.com/minuteclinic/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/cvs-health
   - type: Website
     url: https://www.cvshealth.com/
   - type: AboutUs
