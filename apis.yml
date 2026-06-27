@@ -105,7 +105,7 @@ common:
     url: https://jobs.cvshealth.com/
   - type: PrivacyPolicy
     url: https://www.cvshealth.com/legal/privacy-policy.html
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.cvshealth.com/legal/terms-of-use.html
   - type: LinkedIn
     url: https://www.linkedin.com/company/cvs-health/
