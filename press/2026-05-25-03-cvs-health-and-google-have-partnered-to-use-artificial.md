@@ -1,7 +1,9 @@
 ---
 title: CVS Health and Google have partnered to use artificial ...
 url: https://www.facebook.com/forbes/posts/cvs-health-and-google-have-partnered-to-use-artificial-intelligence-and-related-/1299449658711688/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CVS Health" press release artificial intelligence'
 position: 3
 source: serpapi-google

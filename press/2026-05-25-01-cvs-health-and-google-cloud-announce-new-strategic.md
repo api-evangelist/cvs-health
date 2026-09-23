@@ -1,7 +1,9 @@
 ---
 title: CVS Health and Google Cloud announce new strategic ...
 url: https://www.cvshealth.com/news/company-news/cvs-health-and-google-cloud-announce-new-strategic-partnership.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"CVS Health" press release artificial intelligence'
 position: 1
 source: serpapi-google
