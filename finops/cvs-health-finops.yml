@@ -123,10 +123,8 @@ apis:
 unitEconomics:
   - name: Cost per FHIR Request
     metric: billed_cost / fhir_requests
-    target: TBD
   - name: Cost per EDI Transaction
     metric: billed_cost / edi_transactions
-    target: TBD
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
